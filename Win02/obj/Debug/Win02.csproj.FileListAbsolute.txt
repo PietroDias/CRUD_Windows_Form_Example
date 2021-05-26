@@ -1,0 +1,14 @@
+C:\Users\pietrod\source\repos\Solucao02\Win02\bin\Debug\Banco\Banco.sdf
+C:\Users\pietrod\source\repos\Solucao02\Win02\bin\Debug\Win02.exe.config
+C:\Users\pietrod\source\repos\Solucao02\Win02\bin\Debug\Win02.exe
+C:\Users\pietrod\source\repos\Solucao02\Win02\bin\Debug\Win02.pdb
+C:\Users\pietrod\source\repos\Solucao02\Win02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.csprojAssemblyReference.cache
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.TelaPrincipal.resources
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.Properties.Resources.resources
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.CopyComplete
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.exe
+C:\Users\pietrod\source\repos\Solucao02\Win02\obj\Debug\Win02.pdb
